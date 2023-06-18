@@ -1,0 +1,6 @@
+tkinker
+socket
+threading
+PIL
+time
+colorama
