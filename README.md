@@ -57,4 +57,4 @@ This project is licensed under the MIT License.
 Feel free to copy and paste this content into your README.md file. Just remember to replace `https://github.com/TemplateKing/PyPortScan.git` with the actual URL of your GitHub repository.
 ```
 
-[![Join my Discord Community](https://img.shields.io/discord/123456789012345678?color=7289DA&label=Join%20our%20Discord&logo=discord&logoColor=ffffff&style=for-the-badge)](https://discord.gg/QKJPfpaFUk)
+[![Join my Discord Community](https://img.shields.io/discord/872176810874515536?color=7289DA&label=Join%20our%20Discord&logo=discord&logoColor=ffffff&style=for-the-badge)](https://discord.gg/QKJPfpaFUk)
